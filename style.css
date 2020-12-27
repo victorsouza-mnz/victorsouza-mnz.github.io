@@ -27,20 +27,20 @@ h1 {
 }
 
 .btn-primary {
-  background-color: #246a8a;
-  border-color: #2b3062;
+  background-color: #4467da;
+  border-color: #5778e7;
   
 }
 
 .btn-primary:hover {
-  background-color: #93bbce;
-  border-color: #93bbce;
+  background-color: #6a87e7;
+  border-color: #5778e7;
   
 }
 
 hr {
   border-width: 3px;
-  border-color: #93bbce;
+  border-color:  #718de9;
   max-width: 65px;
 }
 
